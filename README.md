@@ -25,3 +25,6 @@ Database - Mysql
    rails db:migrate
 6. Start server 
    rails s or rails server
+
+
+Demo url - https://find-location.herokuapp.com/
